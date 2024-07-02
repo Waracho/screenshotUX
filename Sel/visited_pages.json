@@ -1,0 +1,27 @@
+[
+    {
+        "timestamp": "2024-07-01 23:03:32",
+        "url": "https://www.registrocivil.cl",
+        "elapsed_time": 0.2825925350189209
+    },
+    {
+        "timestamp": "2024-07-01 23:03:57",
+        "url": "https://www.registrocivil.cl/",
+        "elapsed_time": 25.095590829849243
+    },
+    {
+        "timestamp": "2024-07-01 23:04:01",
+        "url": "https://www.registrocivil.cl/principal/canal-tramites",
+        "elapsed_time": 4.567074775695801
+    },
+    {
+        "timestamp": "2024-07-01 23:04:07",
+        "url": "https://www.registrocivil.cl/principal/servicios-en-linea/servicios-en-linea",
+        "elapsed_time": 5.525612115859985
+    },
+    {
+        "timestamp": "2024-07-01 23:04:11",
+        "url": "https://www.registrocivil.cl/principal/paginas-frecuentes/nuestras-oficinas",
+        "elapsed_time": 4.165207386016846
+    }
+]
